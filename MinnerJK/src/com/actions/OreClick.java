@@ -1,12 +1,11 @@
-package actions;
+package com.actions;
 
-import data.Rocks;
+import com.data.Rocks;
 import org.powerbot.script.Condition;
 import org.powerbot.script.Filter;
 import org.powerbot.script.Locatable;
 import org.powerbot.script.Random;
 import org.powerbot.script.rt4.*;
-
 import java.util.concurrent.Callable;
 
 public class OreClick {

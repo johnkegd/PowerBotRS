@@ -1,4 +1,4 @@
-package testing;
+package com.testing;
 
 
 import org.powerbot.script.Filter;
